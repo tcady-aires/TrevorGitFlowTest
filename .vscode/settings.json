@@ -7,10 +7,6 @@
         {
             "name": "feature/project-feature-1",
             "base": "PROJ-Normal-branch"
-        },
-        {
-            "name": "feature/develop-feature-1",
-            "base": "develop"
         }
     ]
 }
