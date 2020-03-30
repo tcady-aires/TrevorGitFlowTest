@@ -1,8 +1,16 @@
 {
     "gitflow4code.features": [
         {
-            "name": "feature/test1-feature",
+            "name": "feature/test-branch-3",
             "base": "feature/PROJ-test-project"
+        },
+        {
+            "name": "feature/project-feature-1",
+            "base": "PROJ-Normal-branch"
+        },
+        {
+            "name": "feature/develop-feature-1",
+            "base": "develop"
         }
     ]
 }
