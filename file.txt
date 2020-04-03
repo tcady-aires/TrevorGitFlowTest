@@ -10,5 +10,5 @@ test release 5
 test may release2
 test Issue linking with commii
 test issue link with number in commit
-test feature auto delete
-test2
+test if this gets linked
+this should get linked
