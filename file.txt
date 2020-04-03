@@ -12,3 +12,4 @@ test Issue linking with commii
 test issue link with number in commit
 test if this gets linked
 this should get linked
+sub-branch
