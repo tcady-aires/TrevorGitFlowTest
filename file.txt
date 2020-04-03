@@ -12,4 +12,4 @@ test Issue linking with commii
 test issue link with number in commit
 test if this gets linked
 this should get linked
-does this update in feature branch automatically
+does this update in feature branch automatically!!
