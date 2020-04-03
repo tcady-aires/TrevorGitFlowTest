@@ -8,3 +8,8 @@ test2 feature
 test3 feature
 test release 5
 test may release2
+test Issue linking with commii
+test issue link with number in commit
+test if this gets linked
+this should get linked
+does this update in feature branch automatically!!
