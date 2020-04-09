@@ -6,12 +6,4 @@ this is for release 4
 test feature
 test2 feature
 test3 feature
-test release 5
-test may release2
-test Issue linking with commii
-test issue link with number in commit
-test if this gets linked
-this should get linked
-does this update in feature branch automatically!!
-get update in monday.com
-or we can commit to issue and id?
+project feature test
